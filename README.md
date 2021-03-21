@@ -21,7 +21,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="kacperstyslo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kacperstyslo&show_icons=true&hide_border=true" />
+  <img align="left" alt="kacperstyslo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kacperstyslo&theme=default&show_icons=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/kacper-stys%C5%82o/
