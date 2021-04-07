@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 💼 Current job position --> Chief IT specialist at Majster S.A
-- 📖 I’m currently learning --> Flask
-- ✨ I'm interested in --> ⌨️Programing, 🚴Cycling, ⛰️Mountain climbing, ♟️ Chess playing 
+- 📖 I’m currently learning --> Flask, Docker Master Backend Path, AlgoExpert
+- ✨ I'm interested in --> ⌨️Programing, 🚴Cycling, ⛰️Mountain climbing, ♟️ Chess playing
+- 🏆 Goal --> AlgoExpert Certificate 
 
 ### Languages and Tools:
 
