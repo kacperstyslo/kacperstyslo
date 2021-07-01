@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💼 Current job position --> Chief IT specialist at Majster S.A
+- 💼 Current job position --> Junior Software Engineer at SoftServe
 - 📖 I’m currently learning --> Flask, Docker Master Backend Path, AlgoExpert
 - ✨ I'm interested in --> ⌨️Programing, 🚴Cycling, ⛰️Mountain climbing, ♟️ Chess playing
 - 🏆 Goal --> AlgoExpert Certificate 
