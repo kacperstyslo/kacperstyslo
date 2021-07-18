@@ -7,6 +7,8 @@
 ### Languages and Tools:
 
 [<code><img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
+[<code><img alt="Django" width="26px" src="https://img.icons8.com/color/django"></code>](https://www.djangoproject.com/)
+[<code><img alt="Flask" width="26px" src="https://img.icons8.com/color/flask"></code>](https://flask.palletsprojects.com/en/2.0.x/)
 [<code><img alt="Pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png"></code>](https://www.jetbrains.com/pycharm/)
 [<code><img alt="Docker" width="26px" src="https://img.icons8.com/color/docker.png"></code>](https://www.docker.com/)
 [<code><img alt="SQL" width="26px" src="https://img.icons8.com/sql.png"></code>](https://pl.wikipedia.org/wiki/SQL)
