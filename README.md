@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💼 Current job position --> Junior Strong Software Engineer at SoftServe
-- 📖 I’m currently learning --> Django, Docker Master Backend Path, AlgoExpert
+- 📖 I’m currently learning --> AWS, Docker Master Backend Path, AlgoExpert
 - ✨ I'm interested in --> ⌨️Programing, 🚴Cycling, ⛰️Mountain climbing, ♟️ Chess playing
 - 🏆 Goal --> AlgoExpert Certificate 
 
