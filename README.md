@@ -4,34 +4,47 @@
 - ✨ I'm interested in --> ⌨️Programing, 🚴Cycling, ⛰️Mountain climbing, ♟️ Chess playing
 - 🏆 Goal --> AlgoExpert Certificate 
 
-### Languages and Tools:
+**Languages and Tools**
 
-[<code><img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
-[<code><img alt="PySpark" width="26px" src="https://user-images.githubusercontent.com/57534862/138118255-912b8ec2-ba42-413b-8823-53e380ba73ea.png"></code>](http://spark.apache.org/docs/latest/api/python/)
-[<code><img alt="AWS" width="26px" src="https://user-images.githubusercontent.com/57534862/138117652-87f5c69c-7ff4-41c8-827f-ca2d1959689c.png"></code>](https://aws.amazon.com/console/)
-[<code><img alt="Django" width="26px" src="https://img.icons8.com/color/django"></code>](https://www.djangoproject.com/)
-[<code><img alt="Flask" width="26px" src="https://img.icons8.com/color/flask"></code>](https://flask.palletsprojects.com/en/2.0.x/)
-[<code><img alt="Apache Airflow" width="26px" src="https://user-images.githubusercontent.com/57534862/138119817-c59238fe-d44f-4c23-9579-8291009c8251.png"></code>](https://airflow.apache.org/)
-[<code><img alt="Docker" width="26px" src="https://img.icons8.com/color/docker.png"></code>](https://www.docker.com/)
-[<code><img alt="Docker Compose" width="26px" src="https://user-images.githubusercontent.com/57534862/138119620-d7d1dedc-8f14-47a3-b57e-1ac4df652ee9.png"></code>](https://docs.docker.com/compose/)
-[<code><img alt="SQL" width="26px" src="https://img.icons8.com/sql.png"></code>](https://pl.wikipedia.org/wiki/SQL)
-[<code><img alt="Apache Cassandra" width="26px" src="https://user-images.githubusercontent.com/57534862/138118519-7270694f-b896-45d0-b9db-47a68fa045f3.png"></code>](https://cassandra.apache.org/_/index.html)
-[<code><img alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/57534862/138118722-b45b11e0-4b14-4408-bb8f-558c52d472b7.png"></code>](https://www.postgresql.org/)
-[<code><img alt="DynamoDb" width="26px" src="https://user-images.githubusercontent.com/57534862/138130530-86014e4d-c5e6-47fa-bd64-fbc254bc05f1.png"></code>](https://aws.amazon.com/dynamodb/)
-[<code><img alt="Terraform" width="26px" src="https://img.icons8.com/color/terraform.png"></code>](https://www.terraform.io/)
-[<code><img alt="Pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png"></code>](https://www.jetbrains.com/pycharm/)
-[<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/)
-[<code><img alt="TDD" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f410.png"></code>](https://en.wikipedia.org/wiki/Test-driven_development)
-[<code><img alt="Jira" width="26px" src="https://img.icons8.com/color/240/jira.png"></code>](https://www.atlassian.com/pl/software/jira)
-[<code><img alt="Linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png"></code>](https://www.kernel.org/)
+![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-1B5162?style=flat-square&logo=ApacheSpark&logoColor=yellow)
+![PySpark](https://img.shields.io/badge/-PySpark-1B5162?style=flat-square&logo=ApacheSpark&logoColor=yellow)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=yellow)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=orange)
+![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=Jinja&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=ApacheCassandra&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+![TravisCi](https://img.shields.io/badge/-TravisCI-3EAAAF?style=flat-square&logo=travisci&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-e5e4e2?style=flat-square&logo=pandas&logoColor=838383)
+![Numpy](https://img.shields.io/badge/-Numpy-e5e4e2?style=flat-square&logo=pandas&logoColor=blue)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=blue)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Gerrit](https://img.shields.io/badge/-Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-### Connect with me:
-[<img align="left" alt="Kacper Stysło | LinkedIn" width="22px" src="https://img.icons8.com/color/linkedin.png" />][linkedin]
-<br />
+**My Github Stats**
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=kacperstyslo&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="k_stys Stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacperstyslo&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="k_stys Languages" height="165">
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="kacperstyslo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kacperstyslo&theme=default&show_icons=true" />
-</details>
+**Connect with me**
+
+[<img align="left" alt="Kacper Stysło | LinkedIn" width="40px" src="https://img.icons8.com/color/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kacper-stys%C5%82o/
