@@ -25,7 +25,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-e5e4e2?style=flat-square&logo=pandas&logoColor=838383)
 ![Numpy](https://img.shields.io/badge/-Numpy-e5e4e2?style=flat-square&logo=pandas&logoColor=blue)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=blue)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
