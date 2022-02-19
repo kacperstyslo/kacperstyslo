@@ -7,8 +7,6 @@
 **Languages and Tools**
 
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-1B5162?style=flat-square&logo=ApacheSpark&logoColor=yellow)
 ![PySpark](https://img.shields.io/badge/-PySpark-1B5162?style=flat-square&logo=ApacheSpark&logoColor=yellow)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=yellow)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)
