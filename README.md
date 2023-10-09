@@ -54,4 +54,4 @@
 
 [<img align="left" alt="Kacper Stysło | LinkedIn" width="40px" src="https://img.icons8.com/color/linkedin.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kacper-stys%C5%82o/
+[linkedin]: https://www.linkedin.com/in/kacper-stysło/
