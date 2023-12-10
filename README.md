@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 💼 Current job position --> Middle Software Engineer at SoftServe
+- 💼 Current job position --> Senior Software Engineer at SoftServe
 - 📖 I’m currently learning --> ML and Deep Learning
 - ✨ I'm interested in --> ⌨️Programing, 🚴Cycling, ⛰️Mountain climbing, ♟️ Chess playing
-- 🏆 Goal --> AlgoExpert Certificate 
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
